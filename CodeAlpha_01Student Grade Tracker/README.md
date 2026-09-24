@@ -55,4 +55,4 @@ It is a Java-based console application that helps to store student details and c
 ## 📌 Internship
 
 **CodeAlpha Java Programming Internship**  
-**Task 1: Personal Portfolio Website**
+**Task 1: Student Grade Tracker**
