@@ -54,4 +54,8 @@ It is a Java-based console application that allows users to view available rooms
 
 ---
 
-## 📂 Project Structure
+
+## 📌 Internship
+
+**CodeAlpha Java Programming Internship**  
+**Task 2: Hotel Reservation System**
